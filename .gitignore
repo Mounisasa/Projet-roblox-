@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tools/boxes.json
+.venv/
